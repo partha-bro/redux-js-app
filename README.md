@@ -8,6 +8,6 @@
     http://localhost:5173
 
 ## Technology
-Frontend: React + Redux + Thunk using Redux-toolkit
-API: https://fakestoreapi.com
-Backend: no
+    - Frontend: React + Redux + Thunk using Redux-toolkit
+    - API: https://fakestoreapi.com
+    - Backend: no
